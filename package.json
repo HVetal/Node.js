@@ -1,0 +1,23 @@
+{
+  "name": "lesson",
+  "version": "1.0.0",
+  "description": "lesson",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HVetal/Node.js.git"
+  },
+  "author": "Vetal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HVetal/Node.js/issues"
+  },
+  "homepage": "https://github.com/HVetal/Node.js#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
